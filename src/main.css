@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+}
+
+.header-custom-text h5{
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+
+.header-custom-text h2{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 4rem;
+}
+
+.side-column {
+    background: blue;
+}
+
+.body-custom {
+    padding-top: 10%;
+}
+
+#botaoCalcular {
+    margin: 5% 50%;
+}
